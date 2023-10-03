@@ -12,7 +12,6 @@ int main()
     cout << "Objective:" << endl
          << "Try changing all 1s to 0s" << endl;
 
-    // Initialize the matrix
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -22,7 +21,6 @@ int main()
         }
     }
 
-    // Print the initial matrix
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -42,13 +40,11 @@ int main()
         cout << "Enter column (0, 1, or 2): ";
         cin >> column;
 
-        // Input validation
         if (row >= 0 && row < 3 && column >= 0 && column < 3)
         {
             cout << "Setting base[" << row << "][" << column << "] to 0" << endl;
             base[row][column] = 0;
 
-            // Check if all values are now 0
             allZeros = true;
             for (int i = 0; i < 3; i++)
             {
@@ -64,7 +60,6 @@ int main()
                     break;
             }
 
-            // Print the updated matrix
             for (int i = 0; i < 3; i++)
             {
                 for (int j = 0; j < 3; j++)
