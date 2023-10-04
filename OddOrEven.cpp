@@ -1,11 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
-{
-    int num;
-    cout << "Enter a number you want to check if its odd or even:" << endl;
-    cin >> num;
-}
+
 void OddOrEven(int x)
 {
     switch (x)
@@ -4013,4 +4008,11 @@ void OddOrEven(int x)
     default:
         break;
     }
+}
+int main()
+{
+    int num;
+    cout << "Enter a number you want to check if its odd or even:" << endl;
+    cin >> num;
+    OddOrEven(num);
 }
