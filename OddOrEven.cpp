@@ -28011,6 +28011,4006 @@ void OddOrEven(int x)
             cout << "it's even";
             break;
 
+        case 7001:
+            cout << "it's odd";
+            break;
+
+        case 7002:
+            cout << "it's even";
+            break;
+
+        case 7003:
+            cout << "it's odd";
+            break;
+
+        case 7004:
+            cout << "it's even";
+            break;
+
+        case 7005:
+            cout << "it's odd";
+            break;
+
+        case 7006:
+            cout << "it's even";
+            break;
+
+        case 7007:
+            cout << "it's odd";
+            break;
+
+        case 7008:
+            cout << "it's even";
+            break;
+
+        case 7009:
+            cout << "it's odd";
+            break;
+
+        case 7010:
+            cout << "it's even";
+            break;
+
+        case 7011:
+            cout << "it's odd";
+            break;
+
+        case 7012:
+            cout << "it's even";
+            break;
+
+        case 7013:
+            cout << "it's odd";
+            break;
+
+        case 7014:
+            cout << "it's even";
+            break;
+
+        case 7015:
+            cout << "it's odd";
+            break;
+
+        case 7016:
+            cout << "it's even";
+            break;
+
+        case 7017:
+            cout << "it's odd";
+            break;
+
+        case 7018:
+            cout << "it's even";
+            break;
+
+        case 7019:
+            cout << "it's odd";
+            break;
+
+        case 7020:
+            cout << "it's even";
+            break;
+
+        case 7021:
+            cout << "it's odd";
+            break;
+
+        case 7022:
+            cout << "it's even";
+            break;
+
+        case 7023:
+            cout << "it's odd";
+            break;
+
+        case 7024:
+            cout << "it's even";
+            break;
+
+        case 7025:
+            cout << "it's odd";
+            break;
+
+        case 7026:
+            cout << "it's even";
+            break;
+
+        case 7027:
+            cout << "it's odd";
+            break;
+
+        case 7028:
+            cout << "it's even";
+            break;
+
+        case 7029:
+            cout << "it's odd";
+            break;
+
+        case 7030:
+            cout << "it's even";
+            break;
+
+        case 7031:
+            cout << "it's odd";
+            break;
+
+        case 7032:
+            cout << "it's even";
+            break;
+
+        case 7033:
+            cout << "it's odd";
+            break;
+
+        case 7034:
+            cout << "it's even";
+            break;
+
+        case 7035:
+            cout << "it's odd";
+            break;
+
+        case 7036:
+            cout << "it's even";
+            break;
+
+        case 7037:
+            cout << "it's odd";
+            break;
+
+        case 7038:
+            cout << "it's even";
+            break;
+
+        case 7039:
+            cout << "it's odd";
+            break;
+
+        case 7040:
+            cout << "it's even";
+            break;
+
+        case 7041:
+            cout << "it's odd";
+            break;
+
+        case 7042:
+            cout << "it's even";
+            break;
+
+        case 7043:
+            cout << "it's odd";
+            break;
+
+        case 7044:
+            cout << "it's even";
+            break;
+
+        case 7045:
+            cout << "it's odd";
+            break;
+
+        case 7046:
+            cout << "it's even";
+            break;
+
+        case 7047:
+            cout << "it's odd";
+            break;
+
+        case 7048:
+            cout << "it's even";
+            break;
+
+        case 7049:
+            cout << "it's odd";
+            break;
+
+        case 7050:
+            cout << "it's even";
+            break;
+
+        case 7051:
+            cout << "it's odd";
+            break;
+
+        case 7052:
+            cout << "it's even";
+            break;
+
+        case 7053:
+            cout << "it's odd";
+            break;
+
+        case 7054:
+            cout << "it's even";
+            break;
+
+        case 7055:
+            cout << "it's odd";
+            break;
+
+        case 7056:
+            cout << "it's even";
+            break;
+
+        case 7057:
+            cout << "it's odd";
+            break;
+
+        case 7058:
+            cout << "it's even";
+            break;
+
+        case 7059:
+            cout << "it's odd";
+            break;
+
+        case 7060:
+            cout << "it's even";
+            break;
+
+        case 7061:
+            cout << "it's odd";
+            break;
+
+        case 7062:
+            cout << "it's even";
+            break;
+
+        case 7063:
+            cout << "it's odd";
+            break;
+
+        case 7064:
+            cout << "it's even";
+            break;
+
+        case 7065:
+            cout << "it's odd";
+            break;
+
+        case 7066:
+            cout << "it's even";
+            break;
+
+        case 7067:
+            cout << "it's odd";
+            break;
+
+        case 7068:
+            cout << "it's even";
+            break;
+
+        case 7069:
+            cout << "it's odd";
+            break;
+
+        case 7070:
+            cout << "it's even";
+            break;
+
+        case 7071:
+            cout << "it's odd";
+            break;
+
+        case 7072:
+            cout << "it's even";
+            break;
+
+        case 7073:
+            cout << "it's odd";
+            break;
+
+        case 7074:
+            cout << "it's even";
+            break;
+
+        case 7075:
+            cout << "it's odd";
+            break;
+
+        case 7076:
+            cout << "it's even";
+            break;
+
+        case 7077:
+            cout << "it's odd";
+            break;
+
+        case 7078:
+            cout << "it's even";
+            break;
+
+        case 7079:
+            cout << "it's odd";
+            break;
+
+        case 7080:
+            cout << "it's even";
+            break;
+
+        case 7081:
+            cout << "it's odd";
+            break;
+
+        case 7082:
+            cout << "it's even";
+            break;
+
+        case 7083:
+            cout << "it's odd";
+            break;
+
+        case 7084:
+            cout << "it's even";
+            break;
+
+        case 7085:
+            cout << "it's odd";
+            break;
+
+        case 7086:
+            cout << "it's even";
+            break;
+
+        case 7087:
+            cout << "it's odd";
+            break;
+
+        case 7088:
+            cout << "it's even";
+            break;
+
+        case 7089:
+            cout << "it's odd";
+            break;
+
+        case 7090:
+            cout << "it's even";
+            break;
+
+        case 7091:
+            cout << "it's odd";
+            break;
+
+        case 7092:
+            cout << "it's even";
+            break;
+
+        case 7093:
+            cout << "it's odd";
+            break;
+
+        case 7094:
+            cout << "it's even";
+            break;
+
+        case 7095:
+            cout << "it's odd";
+            break;
+
+        case 7096:
+            cout << "it's even";
+            break;
+
+        case 7097:
+            cout << "it's odd";
+            break;
+
+        case 7098:
+            cout << "it's even";
+            break;
+
+        case 7099:
+            cout << "it's odd";
+            break;
+
+        case 7100:
+            cout << "it's even";
+            break;
+
+        case 7101:
+            cout << "it's odd";
+            break;
+
+        case 7102:
+            cout << "it's even";
+            break;
+
+        case 7103:
+            cout << "it's odd";
+            break;
+
+        case 7104:
+            cout << "it's even";
+            break;
+
+        case 7105:
+            cout << "it's odd";
+            break;
+
+        case 7106:
+            cout << "it's even";
+            break;
+
+        case 7107:
+            cout << "it's odd";
+            break;
+
+        case 7108:
+            cout << "it's even";
+            break;
+
+        case 7109:
+            cout << "it's odd";
+            break;
+
+        case 7110:
+            cout << "it's even";
+            break;
+
+        case 7111:
+            cout << "it's odd";
+            break;
+
+        case 7112:
+            cout << "it's even";
+            break;
+
+        case 7113:
+            cout << "it's odd";
+            break;
+
+        case 7114:
+            cout << "it's even";
+            break;
+
+        case 7115:
+            cout << "it's odd";
+            break;
+
+        case 7116:
+            cout << "it's even";
+            break;
+
+        case 7117:
+            cout << "it's odd";
+            break;
+
+        case 7118:
+            cout << "it's even";
+            break;
+
+        case 7119:
+            cout << "it's odd";
+            break;
+
+        case 7120:
+            cout << "it's even";
+            break;
+
+        case 7121:
+            cout << "it's odd";
+            break;
+
+        case 7122:
+            cout << "it's even";
+            break;
+
+        case 7123:
+            cout << "it's odd";
+            break;
+
+        case 7124:
+            cout << "it's even";
+            break;
+
+        case 7125:
+            cout << "it's odd";
+            break;
+
+        case 7126:
+            cout << "it's even";
+            break;
+
+        case 7127:
+            cout << "it's odd";
+            break;
+
+        case 7128:
+            cout << "it's even";
+            break;
+
+        case 7129:
+            cout << "it's odd";
+            break;
+
+        case 7130:
+            cout << "it's even";
+            break;
+
+        case 7131:
+            cout << "it's odd";
+            break;
+
+        case 7132:
+            cout << "it's even";
+            break;
+
+        case 7133:
+            cout << "it's odd";
+            break;
+
+        case 7134:
+            cout << "it's even";
+            break;
+
+        case 7135:
+            cout << "it's odd";
+            break;
+
+        case 7136:
+            cout << "it's even";
+            break;
+
+        case 7137:
+            cout << "it's odd";
+            break;
+
+        case 7138:
+            cout << "it's even";
+            break;
+
+        case 7139:
+            cout << "it's odd";
+            break;
+
+        case 7140:
+            cout << "it's even";
+            break;
+
+        case 7141:
+            cout << "it's odd";
+            break;
+
+        case 7142:
+            cout << "it's even";
+            break;
+
+        case 7143:
+            cout << "it's odd";
+            break;
+
+        case 7144:
+            cout << "it's even";
+            break;
+
+        case 7145:
+            cout << "it's odd";
+            break;
+
+        case 7146:
+            cout << "it's even";
+            break;
+
+        case 7147:
+            cout << "it's odd";
+            break;
+
+        case 7148:
+            cout << "it's even";
+            break;
+
+        case 7149:
+            cout << "it's odd";
+            break;
+
+        case 7150:
+            cout << "it's even";
+            break;
+
+        case 7151:
+            cout << "it's odd";
+            break;
+
+        case 7152:
+            cout << "it's even";
+            break;
+
+        case 7153:
+            cout << "it's odd";
+            break;
+
+        case 7154:
+            cout << "it's even";
+            break;
+
+        case 7155:
+            cout << "it's odd";
+            break;
+
+        case 7156:
+            cout << "it's even";
+            break;
+
+        case 7157:
+            cout << "it's odd";
+            break;
+
+        case 7158:
+            cout << "it's even";
+            break;
+
+        case 7159:
+            cout << "it's odd";
+            break;
+
+        case 7160:
+            cout << "it's even";
+            break;
+
+        case 7161:
+            cout << "it's odd";
+            break;
+
+        case 7162:
+            cout << "it's even";
+            break;
+
+        case 7163:
+            cout << "it's odd";
+            break;
+
+        case 7164:
+            cout << "it's even";
+            break;
+
+        case 7165:
+            cout << "it's odd";
+            break;
+
+        case 7166:
+            cout << "it's even";
+            break;
+
+        case 7167:
+            cout << "it's odd";
+            break;
+
+        case 7168:
+            cout << "it's even";
+            break;
+
+        case 7169:
+            cout << "it's odd";
+            break;
+
+        case 7170:
+            cout << "it's even";
+            break;
+
+        case 7171:
+            cout << "it's odd";
+            break;
+
+        case 7172:
+            cout << "it's even";
+            break;
+
+        case 7173:
+            cout << "it's odd";
+            break;
+
+        case 7174:
+            cout << "it's even";
+            break;
+
+        case 7175:
+            cout << "it's odd";
+            break;
+
+        case 7176:
+            cout << "it's even";
+            break;
+
+        case 7177:
+            cout << "it's odd";
+            break;
+
+        case 7178:
+            cout << "it's even";
+            break;
+
+        case 7179:
+            cout << "it's odd";
+            break;
+
+        case 7180:
+            cout << "it's even";
+            break;
+
+        case 7181:
+            cout << "it's odd";
+            break;
+
+        case 7182:
+            cout << "it's even";
+            break;
+
+        case 7183:
+            cout << "it's odd";
+            break;
+
+        case 7184:
+            cout << "it's even";
+            break;
+
+        case 7185:
+            cout << "it's odd";
+            break;
+
+        case 7186:
+            cout << "it's even";
+            break;
+
+        case 7187:
+            cout << "it's odd";
+            break;
+
+        case 7188:
+            cout << "it's even";
+            break;
+
+        case 7189:
+            cout << "it's odd";
+            break;
+
+        case 7190:
+            cout << "it's even";
+            break;
+
+        case 7191:
+            cout << "it's odd";
+            break;
+
+        case 7192:
+            cout << "it's even";
+            break;
+
+        case 7193:
+            cout << "it's odd";
+            break;
+
+        case 7194:
+            cout << "it's even";
+            break;
+
+        case 7195:
+            cout << "it's odd";
+            break;
+
+        case 7196:
+            cout << "it's even";
+            break;
+
+        case 7197:
+            cout << "it's odd";
+            break;
+
+        case 7198:
+            cout << "it's even";
+            break;
+
+        case 7199:
+            cout << "it's odd";
+            break;
+
+        case 7200:
+            cout << "it's even";
+            break;
+
+        case 7201:
+            cout << "it's odd";
+            break;
+
+        case 7202:
+            cout << "it's even";
+            break;
+
+        case 7203:
+            cout << "it's odd";
+            break;
+
+        case 7204:
+            cout << "it's even";
+            break;
+
+        case 7205:
+            cout << "it's odd";
+            break;
+
+        case 7206:
+            cout << "it's even";
+            break;
+
+        case 7207:
+            cout << "it's odd";
+            break;
+
+        case 7208:
+            cout << "it's even";
+            break;
+
+        case 7209:
+            cout << "it's odd";
+            break;
+
+        case 7210:
+            cout << "it's even";
+            break;
+
+        case 7211:
+            cout << "it's odd";
+            break;
+
+        case 7212:
+            cout << "it's even";
+            break;
+
+        case 7213:
+            cout << "it's odd";
+            break;
+
+        case 7214:
+            cout << "it's even";
+            break;
+
+        case 7215:
+            cout << "it's odd";
+            break;
+
+        case 7216:
+            cout << "it's even";
+            break;
+
+        case 7217:
+            cout << "it's odd";
+            break;
+
+        case 7218:
+            cout << "it's even";
+            break;
+
+        case 7219:
+            cout << "it's odd";
+            break;
+
+        case 7220:
+            cout << "it's even";
+            break;
+
+        case 7221:
+            cout << "it's odd";
+            break;
+
+        case 7222:
+            cout << "it's even";
+            break;
+
+        case 7223:
+            cout << "it's odd";
+            break;
+
+        case 7224:
+            cout << "it's even";
+            break;
+
+        case 7225:
+            cout << "it's odd";
+            break;
+
+        case 7226:
+            cout << "it's even";
+            break;
+
+        case 7227:
+            cout << "it's odd";
+            break;
+
+        case 7228:
+            cout << "it's even";
+            break;
+
+        case 7229:
+            cout << "it's odd";
+            break;
+
+        case 7230:
+            cout << "it's even";
+            break;
+
+        case 7231:
+            cout << "it's odd";
+            break;
+
+        case 7232:
+            cout << "it's even";
+            break;
+
+        case 7233:
+            cout << "it's odd";
+            break;
+
+        case 7234:
+            cout << "it's even";
+            break;
+
+        case 7235:
+            cout << "it's odd";
+            break;
+
+        case 7236:
+            cout << "it's even";
+            break;
+
+        case 7237:
+            cout << "it's odd";
+            break;
+
+        case 7238:
+            cout << "it's even";
+            break;
+
+        case 7239:
+            cout << "it's odd";
+            break;
+
+        case 7240:
+            cout << "it's even";
+            break;
+
+        case 7241:
+            cout << "it's odd";
+            break;
+
+        case 7242:
+            cout << "it's even";
+            break;
+
+        case 7243:
+            cout << "it's odd";
+            break;
+
+        case 7244:
+            cout << "it's even";
+            break;
+
+        case 7245:
+            cout << "it's odd";
+            break;
+
+        case 7246:
+            cout << "it's even";
+            break;
+
+        case 7247:
+            cout << "it's odd";
+            break;
+
+        case 7248:
+            cout << "it's even";
+            break;
+
+        case 7249:
+            cout << "it's odd";
+            break;
+
+        case 7250:
+            cout << "it's even";
+            break;
+
+        case 7251:
+            cout << "it's odd";
+            break;
+
+        case 7252:
+            cout << "it's even";
+            break;
+
+        case 7253:
+            cout << "it's odd";
+            break;
+
+        case 7254:
+            cout << "it's even";
+            break;
+
+        case 7255:
+            cout << "it's odd";
+            break;
+
+        case 7256:
+            cout << "it's even";
+            break;
+
+        case 7257:
+            cout << "it's odd";
+            break;
+
+        case 7258:
+            cout << "it's even";
+            break;
+
+        case 7259:
+            cout << "it's odd";
+            break;
+
+        case 7260:
+            cout << "it's even";
+            break;
+
+        case 7261:
+            cout << "it's odd";
+            break;
+
+        case 7262:
+            cout << "it's even";
+            break;
+
+        case 7263:
+            cout << "it's odd";
+            break;
+
+        case 7264:
+            cout << "it's even";
+            break;
+
+        case 7265:
+            cout << "it's odd";
+            break;
+
+        case 7266:
+            cout << "it's even";
+            break;
+
+        case 7267:
+            cout << "it's odd";
+            break;
+
+        case 7268:
+            cout << "it's even";
+            break;
+
+        case 7269:
+            cout << "it's odd";
+            break;
+
+        case 7270:
+            cout << "it's even";
+            break;
+
+        case 7271:
+            cout << "it's odd";
+            break;
+
+        case 7272:
+            cout << "it's even";
+            break;
+
+        case 7273:
+            cout << "it's odd";
+            break;
+
+        case 7274:
+            cout << "it's even";
+            break;
+
+        case 7275:
+            cout << "it's odd";
+            break;
+
+        case 7276:
+            cout << "it's even";
+            break;
+
+        case 7277:
+            cout << "it's odd";
+            break;
+
+        case 7278:
+            cout << "it's even";
+            break;
+
+        case 7279:
+            cout << "it's odd";
+            break;
+
+        case 7280:
+            cout << "it's even";
+            break;
+
+        case 7281:
+            cout << "it's odd";
+            break;
+
+        case 7282:
+            cout << "it's even";
+            break;
+
+        case 7283:
+            cout << "it's odd";
+            break;
+
+        case 7284:
+            cout << "it's even";
+            break;
+
+        case 7285:
+            cout << "it's odd";
+            break;
+
+        case 7286:
+            cout << "it's even";
+            break;
+
+        case 7287:
+            cout << "it's odd";
+            break;
+
+        case 7288:
+            cout << "it's even";
+            break;
+
+        case 7289:
+            cout << "it's odd";
+            break;
+
+        case 7290:
+            cout << "it's even";
+            break;
+
+        case 7291:
+            cout << "it's odd";
+            break;
+
+        case 7292:
+            cout << "it's even";
+            break;
+
+        case 7293:
+            cout << "it's odd";
+            break;
+
+        case 7294:
+            cout << "it's even";
+            break;
+
+        case 7295:
+            cout << "it's odd";
+            break;
+
+        case 7296:
+            cout << "it's even";
+            break;
+
+        case 7297:
+            cout << "it's odd";
+            break;
+
+        case 7298:
+            cout << "it's even";
+            break;
+
+        case 7299:
+            cout << "it's odd";
+            break;
+
+        case 7300:
+            cout << "it's even";
+            break;
+
+        case 7301:
+            cout << "it's odd";
+            break;
+
+        case 7302:
+            cout << "it's even";
+            break;
+
+        case 7303:
+            cout << "it's odd";
+            break;
+
+        case 7304:
+            cout << "it's even";
+            break;
+
+        case 7305:
+            cout << "it's odd";
+            break;
+
+        case 7306:
+            cout << "it's even";
+            break;
+
+        case 7307:
+            cout << "it's odd";
+            break;
+
+        case 7308:
+            cout << "it's even";
+            break;
+
+        case 7309:
+            cout << "it's odd";
+            break;
+
+        case 7310:
+            cout << "it's even";
+            break;
+
+        case 7311:
+            cout << "it's odd";
+            break;
+
+        case 7312:
+            cout << "it's even";
+            break;
+
+        case 7313:
+            cout << "it's odd";
+            break;
+
+        case 7314:
+            cout << "it's even";
+            break;
+
+        case 7315:
+            cout << "it's odd";
+            break;
+
+        case 7316:
+            cout << "it's even";
+            break;
+
+        case 7317:
+            cout << "it's odd";
+            break;
+
+        case 7318:
+            cout << "it's even";
+            break;
+
+        case 7319:
+            cout << "it's odd";
+            break;
+
+        case 7320:
+            cout << "it's even";
+            break;
+
+        case 7321:
+            cout << "it's odd";
+            break;
+
+        case 7322:
+            cout << "it's even";
+            break;
+
+        case 7323:
+            cout << "it's odd";
+            break;
+
+        case 7324:
+            cout << "it's even";
+            break;
+
+        case 7325:
+            cout << "it's odd";
+            break;
+
+        case 7326:
+            cout << "it's even";
+            break;
+
+        case 7327:
+            cout << "it's odd";
+            break;
+
+        case 7328:
+            cout << "it's even";
+            break;
+
+        case 7329:
+            cout << "it's odd";
+            break;
+
+        case 7330:
+            cout << "it's even";
+            break;
+
+        case 7331:
+            cout << "it's odd";
+            break;
+
+        case 7332:
+            cout << "it's even";
+            break;
+
+        case 7333:
+            cout << "it's odd";
+            break;
+
+        case 7334:
+            cout << "it's even";
+            break;
+
+        case 7335:
+            cout << "it's odd";
+            break;
+
+        case 7336:
+            cout << "it's even";
+            break;
+
+        case 7337:
+            cout << "it's odd";
+            break;
+
+        case 7338:
+            cout << "it's even";
+            break;
+
+        case 7339:
+            cout << "it's odd";
+            break;
+
+        case 7340:
+            cout << "it's even";
+            break;
+
+        case 7341:
+            cout << "it's odd";
+            break;
+
+        case 7342:
+            cout << "it's even";
+            break;
+
+        case 7343:
+            cout << "it's odd";
+            break;
+
+        case 7344:
+            cout << "it's even";
+            break;
+
+        case 7345:
+            cout << "it's odd";
+            break;
+
+        case 7346:
+            cout << "it's even";
+            break;
+
+        case 7347:
+            cout << "it's odd";
+            break;
+
+        case 7348:
+            cout << "it's even";
+            break;
+
+        case 7349:
+            cout << "it's odd";
+            break;
+
+        case 7350:
+            cout << "it's even";
+            break;
+
+        case 7351:
+            cout << "it's odd";
+            break;
+
+        case 7352:
+            cout << "it's even";
+            break;
+
+        case 7353:
+            cout << "it's odd";
+            break;
+
+        case 7354:
+            cout << "it's even";
+            break;
+
+        case 7355:
+            cout << "it's odd";
+            break;
+
+        case 7356:
+            cout << "it's even";
+            break;
+
+        case 7357:
+            cout << "it's odd";
+            break;
+
+        case 7358:
+            cout << "it's even";
+            break;
+
+        case 7359:
+            cout << "it's odd";
+            break;
+
+        case 7360:
+            cout << "it's even";
+            break;
+
+        case 7361:
+            cout << "it's odd";
+            break;
+
+        case 7362:
+            cout << "it's even";
+            break;
+
+        case 7363:
+            cout << "it's odd";
+            break;
+
+        case 7364:
+            cout << "it's even";
+            break;
+
+        case 7365:
+            cout << "it's odd";
+            break;
+
+        case 7366:
+            cout << "it's even";
+            break;
+
+        case 7367:
+            cout << "it's odd";
+            break;
+
+        case 7368:
+            cout << "it's even";
+            break;
+
+        case 7369:
+            cout << "it's odd";
+            break;
+
+        case 7370:
+            cout << "it's even";
+            break;
+
+        case 7371:
+            cout << "it's odd";
+            break;
+
+        case 7372:
+            cout << "it's even";
+            break;
+
+        case 7373:
+            cout << "it's odd";
+            break;
+
+        case 7374:
+            cout << "it's even";
+            break;
+
+        case 7375:
+            cout << "it's odd";
+            break;
+
+        case 7376:
+            cout << "it's even";
+            break;
+
+        case 7377:
+            cout << "it's odd";
+            break;
+
+        case 7378:
+            cout << "it's even";
+            break;
+
+        case 7379:
+            cout << "it's odd";
+            break;
+
+        case 7380:
+            cout << "it's even";
+            break;
+
+        case 7381:
+            cout << "it's odd";
+            break;
+
+        case 7382:
+            cout << "it's even";
+            break;
+
+        case 7383:
+            cout << "it's odd";
+            break;
+
+        case 7384:
+            cout << "it's even";
+            break;
+
+        case 7385:
+            cout << "it's odd";
+            break;
+
+        case 7386:
+            cout << "it's even";
+            break;
+
+        case 7387:
+            cout << "it's odd";
+            break;
+
+        case 7388:
+            cout << "it's even";
+            break;
+
+        case 7389:
+            cout << "it's odd";
+            break;
+
+        case 7390:
+            cout << "it's even";
+            break;
+
+        case 7391:
+            cout << "it's odd";
+            break;
+
+        case 7392:
+            cout << "it's even";
+            break;
+
+        case 7393:
+            cout << "it's odd";
+            break;
+
+        case 7394:
+            cout << "it's even";
+            break;
+
+        case 7395:
+            cout << "it's odd";
+            break;
+
+        case 7396:
+            cout << "it's even";
+            break;
+
+        case 7397:
+            cout << "it's odd";
+            break;
+
+        case 7398:
+            cout << "it's even";
+            break;
+
+        case 7399:
+            cout << "it's odd";
+            break;
+
+        case 7400:
+            cout << "it's even";
+            break;
+
+        case 7401:
+            cout << "it's odd";
+            break;
+
+        case 7402:
+            cout << "it's even";
+            break;
+
+        case 7403:
+            cout << "it's odd";
+            break;
+
+        case 7404:
+            cout << "it's even";
+            break;
+
+        case 7405:
+            cout << "it's odd";
+            break;
+
+        case 7406:
+            cout << "it's even";
+            break;
+
+        case 7407:
+            cout << "it's odd";
+            break;
+
+        case 7408:
+            cout << "it's even";
+            break;
+
+        case 7409:
+            cout << "it's odd";
+            break;
+
+        case 7410:
+            cout << "it's even";
+            break;
+
+        case 7411:
+            cout << "it's odd";
+            break;
+
+        case 7412:
+            cout << "it's even";
+            break;
+
+        case 7413:
+            cout << "it's odd";
+            break;
+
+        case 7414:
+            cout << "it's even";
+            break;
+
+        case 7415:
+            cout << "it's odd";
+            break;
+
+        case 7416:
+            cout << "it's even";
+            break;
+
+        case 7417:
+            cout << "it's odd";
+            break;
+
+        case 7418:
+            cout << "it's even";
+            break;
+
+        case 7419:
+            cout << "it's odd";
+            break;
+
+        case 7420:
+            cout << "it's even";
+            break;
+
+        case 7421:
+            cout << "it's odd";
+            break;
+
+        case 7422:
+            cout << "it's even";
+            break;
+
+        case 7423:
+            cout << "it's odd";
+            break;
+
+        case 7424:
+            cout << "it's even";
+            break;
+
+        case 7425:
+            cout << "it's odd";
+            break;
+
+        case 7426:
+            cout << "it's even";
+            break;
+
+        case 7427:
+            cout << "it's odd";
+            break;
+
+        case 7428:
+            cout << "it's even";
+            break;
+
+        case 7429:
+            cout << "it's odd";
+            break;
+
+        case 7430:
+            cout << "it's even";
+            break;
+
+        case 7431:
+            cout << "it's odd";
+            break;
+
+        case 7432:
+            cout << "it's even";
+            break;
+
+        case 7433:
+            cout << "it's odd";
+            break;
+
+        case 7434:
+            cout << "it's even";
+            break;
+
+        case 7435:
+            cout << "it's odd";
+            break;
+
+        case 7436:
+            cout << "it's even";
+            break;
+
+        case 7437:
+            cout << "it's odd";
+            break;
+
+        case 7438:
+            cout << "it's even";
+            break;
+
+        case 7439:
+            cout << "it's odd";
+            break;
+
+        case 7440:
+            cout << "it's even";
+            break;
+
+        case 7441:
+            cout << "it's odd";
+            break;
+
+        case 7442:
+            cout << "it's even";
+            break;
+
+        case 7443:
+            cout << "it's odd";
+            break;
+
+        case 7444:
+            cout << "it's even";
+            break;
+
+        case 7445:
+            cout << "it's odd";
+            break;
+
+        case 7446:
+            cout << "it's even";
+            break;
+
+        case 7447:
+            cout << "it's odd";
+            break;
+
+        case 7448:
+            cout << "it's even";
+            break;
+
+        case 7449:
+            cout << "it's odd";
+            break;
+
+        case 7450:
+            cout << "it's even";
+            break;
+
+        case 7451:
+            cout << "it's odd";
+            break;
+
+        case 7452:
+            cout << "it's even";
+            break;
+
+        case 7453:
+            cout << "it's odd";
+            break;
+
+        case 7454:
+            cout << "it's even";
+            break;
+
+        case 7455:
+            cout << "it's odd";
+            break;
+
+        case 7456:
+            cout << "it's even";
+            break;
+
+        case 7457:
+            cout << "it's odd";
+            break;
+
+        case 7458:
+            cout << "it's even";
+            break;
+
+        case 7459:
+            cout << "it's odd";
+            break;
+
+        case 7460:
+            cout << "it's even";
+            break;
+
+        case 7461:
+            cout << "it's odd";
+            break;
+
+        case 7462:
+            cout << "it's even";
+            break;
+
+        case 7463:
+            cout << "it's odd";
+            break;
+
+        case 7464:
+            cout << "it's even";
+            break;
+
+        case 7465:
+            cout << "it's odd";
+            break;
+
+        case 7466:
+            cout << "it's even";
+            break;
+
+        case 7467:
+            cout << "it's odd";
+            break;
+
+        case 7468:
+            cout << "it's even";
+            break;
+
+        case 7469:
+            cout << "it's odd";
+            break;
+
+        case 7470:
+            cout << "it's even";
+            break;
+
+        case 7471:
+            cout << "it's odd";
+            break;
+
+        case 7472:
+            cout << "it's even";
+            break;
+
+        case 7473:
+            cout << "it's odd";
+            break;
+
+        case 7474:
+            cout << "it's even";
+            break;
+
+        case 7475:
+            cout << "it's odd";
+            break;
+
+        case 7476:
+            cout << "it's even";
+            break;
+
+        case 7477:
+            cout << "it's odd";
+            break;
+
+        case 7478:
+            cout << "it's even";
+            break;
+
+        case 7479:
+            cout << "it's odd";
+            break;
+
+        case 7480:
+            cout << "it's even";
+            break;
+
+        case 7481:
+            cout << "it's odd";
+            break;
+
+        case 7482:
+            cout << "it's even";
+            break;
+
+        case 7483:
+            cout << "it's odd";
+            break;
+
+        case 7484:
+            cout << "it's even";
+            break;
+
+        case 7485:
+            cout << "it's odd";
+            break;
+
+        case 7486:
+            cout << "it's even";
+            break;
+
+        case 7487:
+            cout << "it's odd";
+            break;
+
+        case 7488:
+            cout << "it's even";
+            break;
+
+        case 7489:
+            cout << "it's odd";
+            break;
+
+        case 7490:
+            cout << "it's even";
+            break;
+
+        case 7491:
+            cout << "it's odd";
+            break;
+
+        case 7492:
+            cout << "it's even";
+            break;
+
+        case 7493:
+            cout << "it's odd";
+            break;
+
+        case 7494:
+            cout << "it's even";
+            break;
+
+        case 7495:
+            cout << "it's odd";
+            break;
+
+        case 7496:
+            cout << "it's even";
+            break;
+
+        case 7497:
+            cout << "it's odd";
+            break;
+
+        case 7498:
+            cout << "it's even";
+            break;
+
+        case 7499:
+            cout << "it's odd";
+            break;
+
+        case 7500:
+            cout << "it's even";
+            break;
+
+        case 7501:
+            cout << "it's odd";
+            break;
+
+        case 7502:
+            cout << "it's even";
+            break;
+
+        case 7503:
+            cout << "it's odd";
+            break;
+
+        case 7504:
+            cout << "it's even";
+            break;
+
+        case 7505:
+            cout << "it's odd";
+            break;
+
+        case 7506:
+            cout << "it's even";
+            break;
+
+        case 7507:
+            cout << "it's odd";
+            break;
+
+        case 7508:
+            cout << "it's even";
+            break;
+
+        case 7509:
+            cout << "it's odd";
+            break;
+
+        case 7510:
+            cout << "it's even";
+            break;
+
+        case 7511:
+            cout << "it's odd";
+            break;
+
+        case 7512:
+            cout << "it's even";
+            break;
+
+        case 7513:
+            cout << "it's odd";
+            break;
+
+        case 7514:
+            cout << "it's even";
+            break;
+
+        case 7515:
+            cout << "it's odd";
+            break;
+
+        case 7516:
+            cout << "it's even";
+            break;
+
+        case 7517:
+            cout << "it's odd";
+            break;
+
+        case 7518:
+            cout << "it's even";
+            break;
+
+        case 7519:
+            cout << "it's odd";
+            break;
+
+        case 7520:
+            cout << "it's even";
+            break;
+
+        case 7521:
+            cout << "it's odd";
+            break;
+
+        case 7522:
+            cout << "it's even";
+            break;
+
+        case 7523:
+            cout << "it's odd";
+            break;
+
+        case 7524:
+            cout << "it's even";
+            break;
+
+        case 7525:
+            cout << "it's odd";
+            break;
+
+        case 7526:
+            cout << "it's even";
+            break;
+
+        case 7527:
+            cout << "it's odd";
+            break;
+
+        case 7528:
+            cout << "it's even";
+            break;
+
+        case 7529:
+            cout << "it's odd";
+            break;
+
+        case 7530:
+            cout << "it's even";
+            break;
+
+        case 7531:
+            cout << "it's odd";
+            break;
+
+        case 7532:
+            cout << "it's even";
+            break;
+
+        case 7533:
+            cout << "it's odd";
+            break;
+
+        case 7534:
+            cout << "it's even";
+            break;
+
+        case 7535:
+            cout << "it's odd";
+            break;
+
+        case 7536:
+            cout << "it's even";
+            break;
+
+        case 7537:
+            cout << "it's odd";
+            break;
+
+        case 7538:
+            cout << "it's even";
+            break;
+
+        case 7539:
+            cout << "it's odd";
+            break;
+
+        case 7540:
+            cout << "it's even";
+            break;
+
+        case 7541:
+            cout << "it's odd";
+            break;
+
+        case 7542:
+            cout << "it's even";
+            break;
+
+        case 7543:
+            cout << "it's odd";
+            break;
+
+        case 7544:
+            cout << "it's even";
+            break;
+
+        case 7545:
+            cout << "it's odd";
+            break;
+
+        case 7546:
+            cout << "it's even";
+            break;
+
+        case 7547:
+            cout << "it's odd";
+            break;
+
+        case 7548:
+            cout << "it's even";
+            break;
+
+        case 7549:
+            cout << "it's odd";
+            break;
+
+        case 7550:
+            cout << "it's even";
+            break;
+
+        case 7551:
+            cout << "it's odd";
+            break;
+
+        case 7552:
+            cout << "it's even";
+            break;
+
+        case 7553:
+            cout << "it's odd";
+            break;
+
+        case 7554:
+            cout << "it's even";
+            break;
+
+        case 7555:
+            cout << "it's odd";
+            break;
+
+        case 7556:
+            cout << "it's even";
+            break;
+
+        case 7557:
+            cout << "it's odd";
+            break;
+
+        case 7558:
+            cout << "it's even";
+            break;
+
+        case 7559:
+            cout << "it's odd";
+            break;
+
+        case 7560:
+            cout << "it's even";
+            break;
+
+        case 7561:
+            cout << "it's odd";
+            break;
+
+        case 7562:
+            cout << "it's even";
+            break;
+
+        case 7563:
+            cout << "it's odd";
+            break;
+
+        case 7564:
+            cout << "it's even";
+            break;
+
+        case 7565:
+            cout << "it's odd";
+            break;
+
+        case 7566:
+            cout << "it's even";
+            break;
+
+        case 7567:
+            cout << "it's odd";
+            break;
+
+        case 7568:
+            cout << "it's even";
+            break;
+
+        case 7569:
+            cout << "it's odd";
+            break;
+
+        case 7570:
+            cout << "it's even";
+            break;
+
+        case 7571:
+            cout << "it's odd";
+            break;
+
+        case 7572:
+            cout << "it's even";
+            break;
+
+        case 7573:
+            cout << "it's odd";
+            break;
+
+        case 7574:
+            cout << "it's even";
+            break;
+
+        case 7575:
+            cout << "it's odd";
+            break;
+
+        case 7576:
+            cout << "it's even";
+            break;
+
+        case 7577:
+            cout << "it's odd";
+            break;
+
+        case 7578:
+            cout << "it's even";
+            break;
+
+        case 7579:
+            cout << "it's odd";
+            break;
+
+        case 7580:
+            cout << "it's even";
+            break;
+
+        case 7581:
+            cout << "it's odd";
+            break;
+
+        case 7582:
+            cout << "it's even";
+            break;
+
+        case 7583:
+            cout << "it's odd";
+            break;
+
+        case 7584:
+            cout << "it's even";
+            break;
+
+        case 7585:
+            cout << "it's odd";
+            break;
+
+        case 7586:
+            cout << "it's even";
+            break;
+
+        case 7587:
+            cout << "it's odd";
+            break;
+
+        case 7588:
+            cout << "it's even";
+            break;
+
+        case 7589:
+            cout << "it's odd";
+            break;
+
+        case 7590:
+            cout << "it's even";
+            break;
+
+        case 7591:
+            cout << "it's odd";
+            break;
+
+        case 7592:
+            cout << "it's even";
+            break;
+
+        case 7593:
+            cout << "it's odd";
+            break;
+
+        case 7594:
+            cout << "it's even";
+            break;
+
+        case 7595:
+            cout << "it's odd";
+            break;
+
+        case 7596:
+            cout << "it's even";
+            break;
+
+        case 7597:
+            cout << "it's odd";
+            break;
+
+        case 7598:
+            cout << "it's even";
+            break;
+
+        case 7599:
+            cout << "it's odd";
+            break;
+
+        case 7600:
+            cout << "it's even";
+            break;
+
+        case 7601:
+            cout << "it's odd";
+            break;
+
+        case 7602:
+            cout << "it's even";
+            break;
+
+        case 7603:
+            cout << "it's odd";
+            break;
+
+        case 7604:
+            cout << "it's even";
+            break;
+
+        case 7605:
+            cout << "it's odd";
+            break;
+
+        case 7606:
+            cout << "it's even";
+            break;
+
+        case 7607:
+            cout << "it's odd";
+            break;
+
+        case 7608:
+            cout << "it's even";
+            break;
+
+        case 7609:
+            cout << "it's odd";
+            break;
+
+        case 7610:
+            cout << "it's even";
+            break;
+
+        case 7611:
+            cout << "it's odd";
+            break;
+
+        case 7612:
+            cout << "it's even";
+            break;
+
+        case 7613:
+            cout << "it's odd";
+            break;
+
+        case 7614:
+            cout << "it's even";
+            break;
+
+        case 7615:
+            cout << "it's odd";
+            break;
+
+        case 7616:
+            cout << "it's even";
+            break;
+
+        case 7617:
+            cout << "it's odd";
+            break;
+
+        case 7618:
+            cout << "it's even";
+            break;
+
+        case 7619:
+            cout << "it's odd";
+            break;
+
+        case 7620:
+            cout << "it's even";
+            break;
+
+        case 7621:
+            cout << "it's odd";
+            break;
+
+        case 7622:
+            cout << "it's even";
+            break;
+
+        case 7623:
+            cout << "it's odd";
+            break;
+
+        case 7624:
+            cout << "it's even";
+            break;
+
+        case 7625:
+            cout << "it's odd";
+            break;
+
+        case 7626:
+            cout << "it's even";
+            break;
+
+        case 7627:
+            cout << "it's odd";
+            break;
+
+        case 7628:
+            cout << "it's even";
+            break;
+
+        case 7629:
+            cout << "it's odd";
+            break;
+
+        case 7630:
+            cout << "it's even";
+            break;
+
+        case 7631:
+            cout << "it's odd";
+            break;
+
+        case 7632:
+            cout << "it's even";
+            break;
+
+        case 7633:
+            cout << "it's odd";
+            break;
+
+        case 7634:
+            cout << "it's even";
+            break;
+
+        case 7635:
+            cout << "it's odd";
+            break;
+
+        case 7636:
+            cout << "it's even";
+            break;
+
+        case 7637:
+            cout << "it's odd";
+            break;
+
+        case 7638:
+            cout << "it's even";
+            break;
+
+        case 7639:
+            cout << "it's odd";
+            break;
+
+        case 7640:
+            cout << "it's even";
+            break;
+
+        case 7641:
+            cout << "it's odd";
+            break;
+
+        case 7642:
+            cout << "it's even";
+            break;
+
+        case 7643:
+            cout << "it's odd";
+            break;
+
+        case 7644:
+            cout << "it's even";
+            break;
+
+        case 7645:
+            cout << "it's odd";
+            break;
+
+        case 7646:
+            cout << "it's even";
+            break;
+
+        case 7647:
+            cout << "it's odd";
+            break;
+
+        case 7648:
+            cout << "it's even";
+            break;
+
+        case 7649:
+            cout << "it's odd";
+            break;
+
+        case 7650:
+            cout << "it's even";
+            break;
+
+        case 7651:
+            cout << "it's odd";
+            break;
+
+        case 7652:
+            cout << "it's even";
+            break;
+
+        case 7653:
+            cout << "it's odd";
+            break;
+
+        case 7654:
+            cout << "it's even";
+            break;
+
+        case 7655:
+            cout << "it's odd";
+            break;
+
+        case 7656:
+            cout << "it's even";
+            break;
+
+        case 7657:
+            cout << "it's odd";
+            break;
+
+        case 7658:
+            cout << "it's even";
+            break;
+
+        case 7659:
+            cout << "it's odd";
+            break;
+
+        case 7660:
+            cout << "it's even";
+            break;
+
+        case 7661:
+            cout << "it's odd";
+            break;
+
+        case 7662:
+            cout << "it's even";
+            break;
+
+        case 7663:
+            cout << "it's odd";
+            break;
+
+        case 7664:
+            cout << "it's even";
+            break;
+
+        case 7665:
+            cout << "it's odd";
+            break;
+
+        case 7666:
+            cout << "it's even";
+            break;
+
+        case 7667:
+            cout << "it's odd";
+            break;
+
+        case 7668:
+            cout << "it's even";
+            break;
+
+        case 7669:
+            cout << "it's odd";
+            break;
+
+        case 7670:
+            cout << "it's even";
+            break;
+
+        case 7671:
+            cout << "it's odd";
+            break;
+
+        case 7672:
+            cout << "it's even";
+            break;
+
+        case 7673:
+            cout << "it's odd";
+            break;
+
+        case 7674:
+            cout << "it's even";
+            break;
+
+        case 7675:
+            cout << "it's odd";
+            break;
+
+        case 7676:
+            cout << "it's even";
+            break;
+
+        case 7677:
+            cout << "it's odd";
+            break;
+
+        case 7678:
+            cout << "it's even";
+            break;
+
+        case 7679:
+            cout << "it's odd";
+            break;
+
+        case 7680:
+            cout << "it's even";
+            break;
+
+        case 7681:
+            cout << "it's odd";
+            break;
+
+        case 7682:
+            cout << "it's even";
+            break;
+
+        case 7683:
+            cout << "it's odd";
+            break;
+
+        case 7684:
+            cout << "it's even";
+            break;
+
+        case 7685:
+            cout << "it's odd";
+            break;
+
+        case 7686:
+            cout << "it's even";
+            break;
+
+        case 7687:
+            cout << "it's odd";
+            break;
+
+        case 7688:
+            cout << "it's even";
+            break;
+
+        case 7689:
+            cout << "it's odd";
+            break;
+
+        case 7690:
+            cout << "it's even";
+            break;
+
+        case 7691:
+            cout << "it's odd";
+            break;
+
+        case 7692:
+            cout << "it's even";
+            break;
+
+        case 7693:
+            cout << "it's odd";
+            break;
+
+        case 7694:
+            cout << "it's even";
+            break;
+
+        case 7695:
+            cout << "it's odd";
+            break;
+
+        case 7696:
+            cout << "it's even";
+            break;
+
+        case 7697:
+            cout << "it's odd";
+            break;
+
+        case 7698:
+            cout << "it's even";
+            break;
+
+        case 7699:
+            cout << "it's odd";
+            break;
+
+        case 7700:
+            cout << "it's even";
+            break;
+
+        case 7701:
+            cout << "it's odd";
+            break;
+
+        case 7702:
+            cout << "it's even";
+            break;
+
+        case 7703:
+            cout << "it's odd";
+            break;
+
+        case 7704:
+            cout << "it's even";
+            break;
+
+        case 7705:
+            cout << "it's odd";
+            break;
+
+        case 7706:
+            cout << "it's even";
+            break;
+
+        case 7707:
+            cout << "it's odd";
+            break;
+
+        case 7708:
+            cout << "it's even";
+            break;
+
+        case 7709:
+            cout << "it's odd";
+            break;
+
+        case 7710:
+            cout << "it's even";
+            break;
+
+        case 7711:
+            cout << "it's odd";
+            break;
+
+        case 7712:
+            cout << "it's even";
+            break;
+
+        case 7713:
+            cout << "it's odd";
+            break;
+
+        case 7714:
+            cout << "it's even";
+            break;
+
+        case 7715:
+            cout << "it's odd";
+            break;
+
+        case 7716:
+            cout << "it's even";
+            break;
+
+        case 7717:
+            cout << "it's odd";
+            break;
+
+        case 7718:
+            cout << "it's even";
+            break;
+
+        case 7719:
+            cout << "it's odd";
+            break;
+
+        case 7720:
+            cout << "it's even";
+            break;
+
+        case 7721:
+            cout << "it's odd";
+            break;
+
+        case 7722:
+            cout << "it's even";
+            break;
+
+        case 7723:
+            cout << "it's odd";
+            break;
+
+        case 7724:
+            cout << "it's even";
+            break;
+
+        case 7725:
+            cout << "it's odd";
+            break;
+
+        case 7726:
+            cout << "it's even";
+            break;
+
+        case 7727:
+            cout << "it's odd";
+            break;
+
+        case 7728:
+            cout << "it's even";
+            break;
+
+        case 7729:
+            cout << "it's odd";
+            break;
+
+        case 7730:
+            cout << "it's even";
+            break;
+
+        case 7731:
+            cout << "it's odd";
+            break;
+
+        case 7732:
+            cout << "it's even";
+            break;
+
+        case 7733:
+            cout << "it's odd";
+            break;
+
+        case 7734:
+            cout << "it's even";
+            break;
+
+        case 7735:
+            cout << "it's odd";
+            break;
+
+        case 7736:
+            cout << "it's even";
+            break;
+
+        case 7737:
+            cout << "it's odd";
+            break;
+
+        case 7738:
+            cout << "it's even";
+            break;
+
+        case 7739:
+            cout << "it's odd";
+            break;
+
+        case 7740:
+            cout << "it's even";
+            break;
+
+        case 7741:
+            cout << "it's odd";
+            break;
+
+        case 7742:
+            cout << "it's even";
+            break;
+
+        case 7743:
+            cout << "it's odd";
+            break;
+
+        case 7744:
+            cout << "it's even";
+            break;
+
+        case 7745:
+            cout << "it's odd";
+            break;
+
+        case 7746:
+            cout << "it's even";
+            break;
+
+        case 7747:
+            cout << "it's odd";
+            break;
+
+        case 7748:
+            cout << "it's even";
+            break;
+
+        case 7749:
+            cout << "it's odd";
+            break;
+
+        case 7750:
+            cout << "it's even";
+            break;
+
+        case 7751:
+            cout << "it's odd";
+            break;
+
+        case 7752:
+            cout << "it's even";
+            break;
+
+        case 7753:
+            cout << "it's odd";
+            break;
+
+        case 7754:
+            cout << "it's even";
+            break;
+
+        case 7755:
+            cout << "it's odd";
+            break;
+
+        case 7756:
+            cout << "it's even";
+            break;
+
+        case 7757:
+            cout << "it's odd";
+            break;
+
+        case 7758:
+            cout << "it's even";
+            break;
+
+        case 7759:
+            cout << "it's odd";
+            break;
+
+        case 7760:
+            cout << "it's even";
+            break;
+
+        case 7761:
+            cout << "it's odd";
+            break;
+
+        case 7762:
+            cout << "it's even";
+            break;
+
+        case 7763:
+            cout << "it's odd";
+            break;
+
+        case 7764:
+            cout << "it's even";
+            break;
+
+        case 7765:
+            cout << "it's odd";
+            break;
+
+        case 7766:
+            cout << "it's even";
+            break;
+
+        case 7767:
+            cout << "it's odd";
+            break;
+
+        case 7768:
+            cout << "it's even";
+            break;
+
+        case 7769:
+            cout << "it's odd";
+            break;
+
+        case 7770:
+            cout << "it's even";
+            break;
+
+        case 7771:
+            cout << "it's odd";
+            break;
+
+        case 7772:
+            cout << "it's even";
+            break;
+
+        case 7773:
+            cout << "it's odd";
+            break;
+
+        case 7774:
+            cout << "it's even";
+            break;
+
+        case 7775:
+            cout << "it's odd";
+            break;
+
+        case 7776:
+            cout << "it's even";
+            break;
+
+        case 7777:
+            cout << "it's odd";
+            break;
+
+        case 7778:
+            cout << "it's even";
+            break;
+
+        case 7779:
+            cout << "it's odd";
+            break;
+
+        case 7780:
+            cout << "it's even";
+            break;
+
+        case 7781:
+            cout << "it's odd";
+            break;
+
+        case 7782:
+            cout << "it's even";
+            break;
+
+        case 7783:
+            cout << "it's odd";
+            break;
+
+        case 7784:
+            cout << "it's even";
+            break;
+
+        case 7785:
+            cout << "it's odd";
+            break;
+
+        case 7786:
+            cout << "it's even";
+            break;
+
+        case 7787:
+            cout << "it's odd";
+            break;
+
+        case 7788:
+            cout << "it's even";
+            break;
+
+        case 7789:
+            cout << "it's odd";
+            break;
+
+        case 7790:
+            cout << "it's even";
+            break;
+
+        case 7791:
+            cout << "it's odd";
+            break;
+
+        case 7792:
+            cout << "it's even";
+            break;
+
+        case 7793:
+            cout << "it's odd";
+            break;
+
+        case 7794:
+            cout << "it's even";
+            break;
+
+        case 7795:
+            cout << "it's odd";
+            break;
+
+        case 7796:
+            cout << "it's even";
+            break;
+
+        case 7797:
+            cout << "it's odd";
+            break;
+
+        case 7798:
+            cout << "it's even";
+            break;
+
+        case 7799:
+            cout << "it's odd";
+            break;
+
+        case 7800:
+            cout << "it's even";
+            break;
+
+        case 7801:
+            cout << "it's odd";
+            break;
+
+        case 7802:
+            cout << "it's even";
+            break;
+
+        case 7803:
+            cout << "it's odd";
+            break;
+
+        case 7804:
+            cout << "it's even";
+            break;
+
+        case 7805:
+            cout << "it's odd";
+            break;
+
+        case 7806:
+            cout << "it's even";
+            break;
+
+        case 7807:
+            cout << "it's odd";
+            break;
+
+        case 7808:
+            cout << "it's even";
+            break;
+
+        case 7809:
+            cout << "it's odd";
+            break;
+
+        case 7810:
+            cout << "it's even";
+            break;
+
+        case 7811:
+            cout << "it's odd";
+            break;
+
+        case 7812:
+            cout << "it's even";
+            break;
+
+        case 7813:
+            cout << "it's odd";
+            break;
+
+        case 7814:
+            cout << "it's even";
+            break;
+
+        case 7815:
+            cout << "it's odd";
+            break;
+
+        case 7816:
+            cout << "it's even";
+            break;
+
+        case 7817:
+            cout << "it's odd";
+            break;
+
+        case 7818:
+            cout << "it's even";
+            break;
+
+        case 7819:
+            cout << "it's odd";
+            break;
+
+        case 7820:
+            cout << "it's even";
+            break;
+
+        case 7821:
+            cout << "it's odd";
+            break;
+
+        case 7822:
+            cout << "it's even";
+            break;
+
+        case 7823:
+            cout << "it's odd";
+            break;
+
+        case 7824:
+            cout << "it's even";
+            break;
+
+        case 7825:
+            cout << "it's odd";
+            break;
+
+        case 7826:
+            cout << "it's even";
+            break;
+
+        case 7827:
+            cout << "it's odd";
+            break;
+
+        case 7828:
+            cout << "it's even";
+            break;
+
+        case 7829:
+            cout << "it's odd";
+            break;
+
+        case 7830:
+            cout << "it's even";
+            break;
+
+        case 7831:
+            cout << "it's odd";
+            break;
+
+        case 7832:
+            cout << "it's even";
+            break;
+
+        case 7833:
+            cout << "it's odd";
+            break;
+
+        case 7834:
+            cout << "it's even";
+            break;
+
+        case 7835:
+            cout << "it's odd";
+            break;
+
+        case 7836:
+            cout << "it's even";
+            break;
+
+        case 7837:
+            cout << "it's odd";
+            break;
+
+        case 7838:
+            cout << "it's even";
+            break;
+
+        case 7839:
+            cout << "it's odd";
+            break;
+
+        case 7840:
+            cout << "it's even";
+            break;
+
+        case 7841:
+            cout << "it's odd";
+            break;
+
+        case 7842:
+            cout << "it's even";
+            break;
+
+        case 7843:
+            cout << "it's odd";
+            break;
+
+        case 7844:
+            cout << "it's even";
+            break;
+
+        case 7845:
+            cout << "it's odd";
+            break;
+
+        case 7846:
+            cout << "it's even";
+            break;
+
+        case 7847:
+            cout << "it's odd";
+            break;
+
+        case 7848:
+            cout << "it's even";
+            break;
+
+        case 7849:
+            cout << "it's odd";
+            break;
+
+        case 7850:
+            cout << "it's even";
+            break;
+
+        case 7851:
+            cout << "it's odd";
+            break;
+
+        case 7852:
+            cout << "it's even";
+            break;
+
+        case 7853:
+            cout << "it's odd";
+            break;
+
+        case 7854:
+            cout << "it's even";
+            break;
+
+        case 7855:
+            cout << "it's odd";
+            break;
+
+        case 7856:
+            cout << "it's even";
+            break;
+
+        case 7857:
+            cout << "it's odd";
+            break;
+
+        case 7858:
+            cout << "it's even";
+            break;
+
+        case 7859:
+            cout << "it's odd";
+            break;
+
+        case 7860:
+            cout << "it's even";
+            break;
+
+        case 7861:
+            cout << "it's odd";
+            break;
+
+        case 7862:
+            cout << "it's even";
+            break;
+
+        case 7863:
+            cout << "it's odd";
+            break;
+
+        case 7864:
+            cout << "it's even";
+            break;
+
+        case 7865:
+            cout << "it's odd";
+            break;
+
+        case 7866:
+            cout << "it's even";
+            break;
+
+        case 7867:
+            cout << "it's odd";
+            break;
+
+        case 7868:
+            cout << "it's even";
+            break;
+
+        case 7869:
+            cout << "it's odd";
+            break;
+
+        case 7870:
+            cout << "it's even";
+            break;
+
+        case 7871:
+            cout << "it's odd";
+            break;
+
+        case 7872:
+            cout << "it's even";
+            break;
+
+        case 7873:
+            cout << "it's odd";
+            break;
+
+        case 7874:
+            cout << "it's even";
+            break;
+
+        case 7875:
+            cout << "it's odd";
+            break;
+
+        case 7876:
+            cout << "it's even";
+            break;
+
+        case 7877:
+            cout << "it's odd";
+            break;
+
+        case 7878:
+            cout << "it's even";
+            break;
+
+        case 7879:
+            cout << "it's odd";
+            break;
+
+        case 7880:
+            cout << "it's even";
+            break;
+
+        case 7881:
+            cout << "it's odd";
+            break;
+
+        case 7882:
+            cout << "it's even";
+            break;
+
+        case 7883:
+            cout << "it's odd";
+            break;
+
+        case 7884:
+            cout << "it's even";
+            break;
+
+        case 7885:
+            cout << "it's odd";
+            break;
+
+        case 7886:
+            cout << "it's even";
+            break;
+
+        case 7887:
+            cout << "it's odd";
+            break;
+
+        case 7888:
+            cout << "it's even";
+            break;
+
+        case 7889:
+            cout << "it's odd";
+            break;
+
+        case 7890:
+            cout << "it's even";
+            break;
+
+        case 7891:
+            cout << "it's odd";
+            break;
+
+        case 7892:
+            cout << "it's even";
+            break;
+
+        case 7893:
+            cout << "it's odd";
+            break;
+
+        case 7894:
+            cout << "it's even";
+            break;
+
+        case 7895:
+            cout << "it's odd";
+            break;
+
+        case 7896:
+            cout << "it's even";
+            break;
+
+        case 7897:
+            cout << "it's odd";
+            break;
+
+        case 7898:
+            cout << "it's even";
+            break;
+
+        case 7899:
+            cout << "it's odd";
+            break;
+
+        case 7900:
+            cout << "it's even";
+            break;
+
+        case 7901:
+            cout << "it's odd";
+            break;
+
+        case 7902:
+            cout << "it's even";
+            break;
+
+        case 7903:
+            cout << "it's odd";
+            break;
+
+        case 7904:
+            cout << "it's even";
+            break;
+
+        case 7905:
+            cout << "it's odd";
+            break;
+
+        case 7906:
+            cout << "it's even";
+            break;
+
+        case 7907:
+            cout << "it's odd";
+            break;
+
+        case 7908:
+            cout << "it's even";
+            break;
+
+        case 7909:
+            cout << "it's odd";
+            break;
+
+        case 7910:
+            cout << "it's even";
+            break;
+
+        case 7911:
+            cout << "it's odd";
+            break;
+
+        case 7912:
+            cout << "it's even";
+            break;
+
+        case 7913:
+            cout << "it's odd";
+            break;
+
+        case 7914:
+            cout << "it's even";
+            break;
+
+        case 7915:
+            cout << "it's odd";
+            break;
+
+        case 7916:
+            cout << "it's even";
+            break;
+
+        case 7917:
+            cout << "it's odd";
+            break;
+
+        case 7918:
+            cout << "it's even";
+            break;
+
+        case 7919:
+            cout << "it's odd";
+            break;
+
+        case 7920:
+            cout << "it's even";
+            break;
+
+        case 7921:
+            cout << "it's odd";
+            break;
+
+        case 7922:
+            cout << "it's even";
+            break;
+
+        case 7923:
+            cout << "it's odd";
+            break;
+
+        case 7924:
+            cout << "it's even";
+            break;
+
+        case 7925:
+            cout << "it's odd";
+            break;
+
+        case 7926:
+            cout << "it's even";
+            break;
+
+        case 7927:
+            cout << "it's odd";
+            break;
+
+        case 7928:
+            cout << "it's even";
+            break;
+
+        case 7929:
+            cout << "it's odd";
+            break;
+
+        case 7930:
+            cout << "it's even";
+            break;
+
+        case 7931:
+            cout << "it's odd";
+            break;
+
+        case 7932:
+            cout << "it's even";
+            break;
+
+        case 7933:
+            cout << "it's odd";
+            break;
+
+        case 7934:
+            cout << "it's even";
+            break;
+
+        case 7935:
+            cout << "it's odd";
+            break;
+
+        case 7936:
+            cout << "it's even";
+            break;
+
+        case 7937:
+            cout << "it's odd";
+            break;
+
+        case 7938:
+            cout << "it's even";
+            break;
+
+        case 7939:
+            cout << "it's odd";
+            break;
+
+        case 7940:
+            cout << "it's even";
+            break;
+
+        case 7941:
+            cout << "it's odd";
+            break;
+
+        case 7942:
+            cout << "it's even";
+            break;
+
+        case 7943:
+            cout << "it's odd";
+            break;
+
+        case 7944:
+            cout << "it's even";
+            break;
+
+        case 7945:
+            cout << "it's odd";
+            break;
+
+        case 7946:
+            cout << "it's even";
+            break;
+
+        case 7947:
+            cout << "it's odd";
+            break;
+
+        case 7948:
+            cout << "it's even";
+            break;
+
+        case 7949:
+            cout << "it's odd";
+            break;
+
+        case 7950:
+            cout << "it's even";
+            break;
+
+        case 7951:
+            cout << "it's odd";
+            break;
+
+        case 7952:
+            cout << "it's even";
+            break;
+
+        case 7953:
+            cout << "it's odd";
+            break;
+
+        case 7954:
+            cout << "it's even";
+            break;
+
+        case 7955:
+            cout << "it's odd";
+            break;
+
+        case 7956:
+            cout << "it's even";
+            break;
+
+        case 7957:
+            cout << "it's odd";
+            break;
+
+        case 7958:
+            cout << "it's even";
+            break;
+
+        case 7959:
+            cout << "it's odd";
+            break;
+
+        case 7960:
+            cout << "it's even";
+            break;
+
+        case 7961:
+            cout << "it's odd";
+            break;
+
+        case 7962:
+            cout << "it's even";
+            break;
+
+        case 7963:
+            cout << "it's odd";
+            break;
+
+        case 7964:
+            cout << "it's even";
+            break;
+
+        case 7965:
+            cout << "it's odd";
+            break;
+
+        case 7966:
+            cout << "it's even";
+            break;
+
+        case 7967:
+            cout << "it's odd";
+            break;
+
+        case 7968:
+            cout << "it's even";
+            break;
+
+        case 7969:
+            cout << "it's odd";
+            break;
+
+        case 7970:
+            cout << "it's even";
+            break;
+
+        case 7971:
+            cout << "it's odd";
+            break;
+
+        case 7972:
+            cout << "it's even";
+            break;
+
+        case 7973:
+            cout << "it's odd";
+            break;
+
+        case 7974:
+            cout << "it's even";
+            break;
+
+        case 7975:
+            cout << "it's odd";
+            break;
+
+        case 7976:
+            cout << "it's even";
+            break;
+
+        case 7977:
+            cout << "it's odd";
+            break;
+
+        case 7978:
+            cout << "it's even";
+            break;
+
+        case 7979:
+            cout << "it's odd";
+            break;
+
+        case 7980:
+            cout << "it's even";
+            break;
+
+        case 7981:
+            cout << "it's odd";
+            break;
+
+        case 7982:
+            cout << "it's even";
+            break;
+
+        case 7983:
+            cout << "it's odd";
+            break;
+
+        case 7984:
+            cout << "it's even";
+            break;
+
+        case 7985:
+            cout << "it's odd";
+            break;
+
+        case 7986:
+            cout << "it's even";
+            break;
+
+        case 7987:
+            cout << "it's odd";
+            break;
+
+        case 7988:
+            cout << "it's even";
+            break;
+
+        case 7989:
+            cout << "it's odd";
+            break;
+
+        case 7990:
+            cout << "it's even";
+            break;
+
+        case 7991:
+            cout << "it's odd";
+            break;
+
+        case 7992:
+            cout << "it's even";
+            break;
+
+        case 7993:
+            cout << "it's odd";
+            break;
+
+        case 7994:
+            cout << "it's even";
+            break;
+
+        case 7995:
+            cout << "it's odd";
+            break;
+
+        case 7996:
+            cout << "it's even";
+            break;
+
+        case 7997:
+            cout << "it's odd";
+            break;
+
+        case 7998:
+            cout << "it's even";
+            break;
+
+        case 7999:
+            cout << "it's odd";
+            break;
+
+        case 8000:
+            cout << "it's even";
+            break;
+
         default:
             cout << "Please try to enter a positive number!!!";
             break;
