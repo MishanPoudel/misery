@@ -12,8 +12,8 @@ time.sleep(1)
 pyautogui.hotkey('ctrl', 'a')
 
 
-first = 16;
-second = 17;
+first = 27;
+second = 28;
 
 code = f'''with open('D:\\Misery\\here.txt', 'w') as file:
 for i in range({first}0001, {second}0000 + 1):\n    file.write(f"\\ncase {{i}}:\\n")\nfile.write(f'    cout << "it\\'s {{"even" if i % 2 == 0 else "odd"}}\";\\n')\nfile.write("    break;\\n")'''
@@ -65,22 +65,22 @@ with open('OddOrEven.cpp', 'w') as file:
     file.writelines(lines)
 
 time.sleep(2)
-pyautogui.hotkey('shift', 'alt', 'f')
-time.sleep(10)
-pyautogui.hotkey('ctrl', '~')
-pyautogui.write("git add OddOrEven.cpp")
-time.sleep(1)
-pyautogui.press('enter')
-time.sleep(1)
-pyautogui.write(f'git commit -m "added upto {second}0000"')
-time.sleep(1)
-pyautogui.press('enter')
-time.sleep(1)
-pyautogui.write('git push')
-time.sleep(1)
-pyautogui.press('enter')
-time.sleep(1)
-pyautogui.hotkey('ctrl', 'p')
+# pyautogui.hotkey('shift', 'alt', 'f')
+# time.sleep(10)
+# pyautogui.hotkey('ctrl', '~')
+# pyautogui.write("git add OddOrEven.cpp")
+# time.sleep(1)
+# pyautogui.press('enter')
+# time.sleep(1)
+# pyautogui.write(f'git commit -m "added upto {second}0000"')
+# time.sleep(1)
+# pyautogui.press('enter')
+# time.sleep(1)
+# pyautogui.write('git push')
+# time.sleep(1)
+# pyautogui.press('enter')
+# time.sleep(1)
+# pyautogui.hotkey('ctrl', 'p')
 time.sleep(1)
 pyautogui.write('automation.py')
 time.sleep(1)
