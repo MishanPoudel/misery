@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text to Speech in JavaScript</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+      }
+
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      .container {
+        background-color: #4fbdba;
+        display: grid;
+        gap: 20px;
+        width: 500px;
+        max-width: calc(100vw - 40px);
+        padding: 30px;
+        border-radius: 10px;
+        font-size: 1.2rem;
+      }
+
+      #text {
+        display: block;
+        height: 100px;
+        border-radius: 0.5rem;
+        font-size: 1.5rem;
+        border: none;
+        resize: none;
+        padding: 8px 10px;
+        outline: 2px solid rgba(120, 120, 120, 0.623);
+      }
+
+      button {
+        padding: 10px;
+        background: #072227;
+        color: #fff;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        border: none;
+        font-size: 1rem;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <label for="text">Text to speak:</label>
+      <textarea id="text"></textarea>
+      <button id="speak">Speak Text</button>
+    </div>
+    <script>
+      const textEL = document.getElementById("text");
+      const speakEL = document.getElementById("speak");
+
+      speakEL.addEventListener("click", speakText);
+      function speakText() {
+        // stop any speaking in progress
+        window.speechSynthesis.cancel();
+
+        const text = textEL.value;
+        const utterance = new SpeechSynthesisUtterance(text);
+        window.speechSynthesis.speak(utterance);
+      }
+    </script>
+  </body>
+</html>
