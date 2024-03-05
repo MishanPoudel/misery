@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Windows 10</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,400&display=swap");
+
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        background-image: url('https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/wallpaperr.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+        color: #ffffff;
+        font-family: "Roboto", sans-serif;
+      }
+
+      .wrapper {
+        height: 40vh;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+      }
+      .animate {
+        animation: slideup 0.2s linear forwards;
+      }
+
+      .container-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        width: 100%;
+        height: 100%;
+        font-size: 2rem;
+        padding-left: 20px;
+        line-height: 1px;
+      }
+      .current-time {
+        font-size: 5rem;
+        letter-spacing: -2.5px;
+      }
+      .date {
+        letter-spacing: 3px;
+      }
+      .container-right > .widget {
+        width: 100px;
+        height: 50px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin: 0 2em 1em 0;
+      }
+
+      .input-password {
+        display: inline-block;
+      }
+
+      .wrapper2 {
+        display: none;
+      }
+      .form-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: clamp(23ch, 50%, 46ch);
+        /* background: pink; */
+        text-align: center;
+        height: 50vh;
+        line-height: 3em;
+      }
+
+      .user-avatar img {
+        width: 200px;
+        height: 200px;
+        opacity: 0.8;
+      }
+
+      .system-name {
+        font-size: 2rem;
+      }
+
+      .input-password {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 20px;
+      }
+
+      .input-password input {
+        padding: 8px 12px;
+        border: none;
+        outline: none;
+        width: 60%;
+      }
+      .input-password input::placeholder {
+        letter-spacing: 2px;
+        font-weight: 500;
+      }
+
+      .input-password button {
+        border: none;
+        padding: 3px 2px 0 2px;
+        background: rgb(92, 92, 92, 70%);
+        cursor: pointer;
+      }
+      .input-password button img {
+        height: 20px;
+      }
+
+      .wrapper2 .widget {
+        width: 150px;
+        height: 50px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 2em 1em 0;
+      }
+      .widget img:hover {
+        height: 32px;
+        background: grey;
+        padding: 2px 3px;
+      }
+
+      @keyframes slideup {
+        from {
+          bottom: 0;
+        }
+        to {
+          bottom: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- wrapper will have the transtion of going up and then 2nd wrapper will be displayed -->
+    <div class="wrapper" id="wrapper">
+      <div class="container-left">
+        <div class="current-time" id="clock">
+          <!-- show current time via js -->
+        </div>
+        <div class="date" id="date">
+          <!-- show current day, month date in respectice order -->
+        </div>
+      </div>
+      <div class="container-right">
+        <div class="widget">
+          <div class="wifi">
+            <!-- wifi logg -->
+            <img src="https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/wifi.png" alt="wifilogo" />
+          </div>
+          <div class="battery">
+            <!-- charging logo -->
+            <img src="https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/battery.png" alt="bateryRemaining" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- wrapper 2 for the form login -->
+    <div class="wrapper2" id="wrapper2">
+      <div class="form-content">
+        <form class="midform">
+          <div class="user-avatar">
+            <img src="https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/avatar.png" alt="Avatar" />
+          </div>
+          <div class="system-name">
+            <h3>Lenovo</h3>
+          </div>
+          <div class="input-password">
+            <input type="password" id="password" placeholder="Password" />
+            <button><img src="https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/arrow.png" alt="-->" /></button>
+          </div>
+        </form>
+      </div>
+      <div class="widget">
+        <div class="wifi">
+          <!-- wifi logg -->
+          <img src="https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/wifi.png" alt="wifilogo" />
+        </div>
+        <div class="timer">
+          <!-- wifi logg -->
+          <img src="https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/timer.png" alt="Timer" />
+        </div>
+        <div class="battery">
+          <!-- charging logo -->
+          <img src="https://raw.githubusercontent.com/nikhilswain/Windows-10-lock-screen/master/img/battery.png" alt="bateryRemaining" />
+        </div>
+      </div>
+    </div>
+    <script>
+      const dateOut = document.getElementById("date"), // to show current date month and day
+        clockOut = document.getElementById("clock"); // for current date
+      const weekDays = [
+          "Sunday",
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+        ],
+        monthS = [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December",
+        ];
+      function showTime() {
+        const time = new Date(),
+          day = time.getDay(),
+          date = time.getDate(),
+          month = time.getMonth(),
+          hour = time.getHours(),
+          mins = time.getMinutes();
+        clockOut.innerHTML = `${preceedZero(hour)} : ${preceedZero(mins)}`;
+        dateOut.innerHTML = `${weekDays[day]}, ${date} ${monthS[month]}`;
+        setTimeout(showTime, 1000);
+      }
+
+      function preceedZero(time) {
+        return (parseInt(time, 10) < 10 ? "0" : "") + time;
+      }
+
+      function animate() {
+        setTimeout(() => {
+          document.getElementById("wrapper2").style.display = "block";
+        }, 300);
+        document.getElementById("wrapper").classList.add("animate");
+      }
+
+      document.body.addEventListener("click", animate, false);
+      document.body.addEventListener("keyup", animate, false);
+
+      showTime();
+    </script>
+  </body>
+</html>
